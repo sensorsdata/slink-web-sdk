@@ -11,7 +11,7 @@ SLink Web SDK 是一款用于 SLink 投放的 SDK。
 
 ## 集成文档
 
-请参考神策官网
+请参考神策官网 [SLink 集成（Web）](https://manual.sensorsdata.cn/sensorsadstracking/latest/slink-web-94273623.html)
 
 ## 讨论
 
