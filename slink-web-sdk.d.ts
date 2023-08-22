@@ -163,6 +163,7 @@ export interface ISensorsSLinkConfig {
 	configSource?: SLinkConfigSource;
 	dynamicUtmParams?: IChannelParam;
 	dynamicCustomParams?: IChannelParam;
+	tid: number | string;
 }
 declare class ClassSensorsSLink {
 	landingPageEntered: boolean;
